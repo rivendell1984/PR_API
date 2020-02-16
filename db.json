@@ -1,0 +1,50 @@
+{
+    "site" : {
+        "all": {
+            "status_code": 200,
+            "description": "site list success",
+            "sites": [
+                {
+                    "site_name": "my_site01",
+                    "site_description": "description of my_site01",
+                    "site_map": "https://cadbull.com/img/product_img/original/Miscellaneous-office-furniture-elevation-blocks-cad-drawing-details-dwg-file-Mon-Sep-2018-05-23-23.jpg"
+                },
+                {
+                  "site_name": "my_site02",
+                  "site_description": "description of my_site02",
+                  "site_map": "https://cadbull.com/img/product_img/original/Miscellaneous-office-furniture-elevation-blocks-cad-drawing-details-dwg-file-Mon-Sep-2018-05-23-23.jpg"
+              }
+            ]
+         }
+
+    },
+    "robot": {
+        "all": {
+            "status_code": 200,
+            "description": "get robot list success",
+            "robots": [
+                {
+                    "robot_name": "robot01",
+                    "avatar": "https://hackster.imgix.net/uploads/attachments/277748/diy_rc_car_with_phpoc_shield_c4KIw0eB2T.jpg",
+                    "capabilities": "video,audio",
+                    "robot_site": "my_site01",
+                    "original_location": "TBD"
+                },
+                {
+                    "robot_name": "robot02",
+                    "avatar": "https://hackster.imgix.net/uploads/attachments/277748/diy_rc_car_with_phpoc_shield_c4KIw0eB2T.jpg",
+                    "capabilities": "video,audio",
+                    "robot_site": "my_site01",
+                    "original_location": "TBD"
+                },
+                {
+                    "robot_name": "robot03",
+                    "avatar": "https://hackster.imgix.net/uploads/attachments/277748/diy_rc_car_with_phpoc_shield_c4KIw0eB2T.jpg",
+                    "capabilities": "video,audio",
+                    "robot_site": "my_site01",
+                    "original_location": "TBD"
+                }
+            ]
+        }
+    }
+}
