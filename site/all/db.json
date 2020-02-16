@@ -1,6 +1,5 @@
 {
-    "all": {
-        "status_code": 200,
+    "status_code": 200,
         "description": "site list success",
         "sites": [
             {
@@ -13,6 +12,5 @@
               "site_description": "description of my_site02",
               "site_map": "https://cadbull.com/img/product_img/original/Miscellaneous-office-furniture-elevation-blocks-cad-drawing-details-dwg-file-Mon-Sep-2018-05-23-23.jpg"
           }
-        ]
-     }
+    ]
 }
