@@ -9,10 +9,25 @@
                     "site_map": "https://cadbull.com/img/product_img/original/Miscellaneous-office-furniture-elevation-blocks-cad-drawing-details-dwg-file-Mon-Sep-2018-05-23-23.jpg"
                 },
                 {
-                  "site_name": "my_site02",
-                  "site_description": "description of my_site02",
-                  "site_map": "https://cadbull.com/img/product_img/original/Miscellaneous-office-furniture-elevation-blocks-cad-drawing-details-dwg-file-Mon-Sep-2018-05-23-23.jpg"
-              }
+                    "site_name": "my_site02",
+                    "site_description": "description of my_site02",
+                    "site_map": "https://cadbull.com/img/product_img/original/Miscellaneous-office-furniture-elevation-blocks-cad-drawing-details-dwg-file-Mon-Sep-2018-05-23-23.jpg"
+                },
+                {
+                    "site_name": "my_site03",
+                    "site_description": "description of my_site03",
+                    "site_map": "https://cadbull.com/img/product_img/original/Miscellaneous-office-furniture-elevation-blocks-cad-drawing-details-dwg-file-Mon-Sep-2018-05-23-23.jpg"
+                },
+                {
+                    "site_name": "my_site04",
+                    "site_description": "description of my_site04",
+                    "site_map": "https://cadbull.com/img/product_img/original/Miscellaneous-office-furniture-elevation-blocks-cad-drawing-details-dwg-file-Mon-Sep-2018-05-23-23.jpg"
+                },
+                {
+                    "site_name": "my_site05",
+                    "site_description": "description of my_site05",
+                    "site_map": "https://cadbull.com/img/product_img/original/Miscellaneous-office-furniture-elevation-blocks-cad-drawing-details-dwg-file-Mon-Sep-2018-05-23-23.jpg"
+                }
             ]
 
     },
@@ -39,6 +54,34 @@
                     "avatar": "https://hackster.imgix.net/uploads/attachments/277748/diy_rc_car_with_phpoc_shield_c4KIw0eB2T.jpg",
                     "capabilities": "video,audio",
                     "robot_site": "my_site01",
+                    "original_location": "TBD"
+                },
+                {
+                    "robot_name": "robot04",
+                    "avatar": "https://hackster.imgix.net/uploads/attachments/277748/diy_rc_car_with_phpoc_shield_c4KIw0eB2T.jpg",
+                    "capabilities": "video,audio",
+                    "robot_site": "my_site02",
+                    "original_location": "TBD"
+                },
+                {
+                    "robot_name": "robot05",
+                    "avatar": "https://hackster.imgix.net/uploads/attachments/277748/diy_rc_car_with_phpoc_shield_c4KIw0eB2T.jpg",
+                    "capabilities": "video,audio",
+                    "robot_site": "my_site02",
+                    "original_location": "TBD"
+                },
+                {
+                    "robot_name": "robot06",
+                    "avatar": "https://hackster.imgix.net/uploads/attachments/277748/diy_rc_car_with_phpoc_shield_c4KIw0eB2T.jpg",
+                    "capabilities": "video,audio",
+                    "robot_site": "my_site02",
+                    "original_location": "TBD"
+                },
+                {
+                    "robot_name": "robot07",
+                    "avatar": "https://hackster.imgix.net/uploads/attachments/277748/diy_rc_car_with_phpoc_shield_c4KIw0eB2T.jpg",
+                    "capabilities": "video,audio",
+                    "robot_site": "my_site02",
                     "original_location": "TBD"
                 }
             ]
